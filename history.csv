@@ -1,0 +1,12 @@
+timestamp,type,indicator,score,level,signals
+2026-03-02 12:00:25 UTC,url,https://laugerr.github.io/,5,LOW,Newly seen indicator
+2026-03-02 12:01:08 UTC,domain,www.facebook.com,5,LOW,Newly seen indicator
+2026-03-02 12:01:46 UTC,domain,8.8.8.8.8,5,LOW,Newly seen indicator
+2026-03-02 12:01:54 UTC,domain,8.8.8.8.8,0,LOW,
+2026-03-02 12:01:58 UTC,domain,8.8.8.8.8,0,LOW,
+2026-03-02 12:02:02 UTC,domain,8.8.8.8.8,0,LOW,
+2026-03-02 12:02:50 UTC,domain,filetransfer.io,55,HIGH,"Blocklisted indicator, Newly seen indicator"
+2026-03-02 12:03:11 UTC,domain,pastebin.com,55,HIGH,"Blocklisted indicator, Newly seen indicator"
+2026-03-02 12:03:31 UTC,domain,gist.github.com,55,HIGH,"Blocklisted indicator, Newly seen indicator"
+2026-03-02 12:03:52 UTC,ip,185.169.255.74,55,HIGH,"Blocklisted indicator, Newly seen indicator"
+2026-03-02 12:04:28 UTC,ip,193.219.57.7,15,LOW,"Datacenter hosting (simulated), Newly seen indicator"
