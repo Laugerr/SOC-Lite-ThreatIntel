@@ -6,8 +6,7 @@ A Streamlit web app that simulates threat intelligence enrichment for IPs/domain
 
 ---
 
-## 🚀 Live Demo
-> Add your Streamlit link here once deployed
+## 🚀 Live Demo [Threat Intel & Risk Scoring Dashboard](https://soc-lite-threatintel-ucwfqkcasvhtnqq6oskscg.streamlit.app/)
 
 ---
 
